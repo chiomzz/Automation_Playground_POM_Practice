@@ -1,7 +1,7 @@
 # Automation_Playground_POM_Practice
 
 
-This project automates the basic features of the Automation Playground application using Selenium with Python.
+This project automates the basic features of the Automation Playground application using Selenium with Python. [Page Object Model]
 
 ✅ Automated Features;
 
