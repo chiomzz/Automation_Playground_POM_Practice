@@ -22,7 +22,7 @@ class AddCustomerLocators:
     PROMOTIONAL_LIST = (By.XPATH, '//*[@id="loginform"]/div/div/div/div/form/div[7]/input')
     SUBMIT_CUSTOMER = (By.XPATH, '//*[@id="loginform"]/div/div/div/div/form/button')
 
-class Logout:
+class LogoutLocator:
     SIGN_OUT = (By.CSS_SELECTOR, 'body > nav > ul > li > a')
 
 
